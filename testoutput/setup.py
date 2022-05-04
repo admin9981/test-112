@@ -9,7 +9,7 @@ setuptools.setup(
   author_email = 'wwat1313@gmail.com',
   url = "https://github.com/admin9981/test-112/",
   download_url ="https://github.com/admin9981/test-112/blob/main/testoutput/setup.py"
-  install_url=['pytset']
+  install_url=['pytest']
   long_descripyion = 'oss development....',
   long_descripyion_content_type = 'text/markdown',
   classifiers=[
